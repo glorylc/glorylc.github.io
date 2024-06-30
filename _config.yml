@@ -21,7 +21,7 @@ repository               : "glorylc/glorylc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Homepage.png"
   name             : "Chen Liang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student from Peking University"
