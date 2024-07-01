@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Beijing, China"
-title                    : "Chen Liang/Personal Homepage"
+title                    : "Welcome to Chen Liang's homepage"
 title_separator          : "-"
 name                     : &name "Chen Liang"
 description              : &description "Ph.D. student"
