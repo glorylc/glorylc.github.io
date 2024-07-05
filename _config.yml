@@ -25,7 +25,10 @@ author:
   name             : "Chen Liang (梁晨)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
-  location         : 'No.5 Yiheyuan Road, \n Haidian District, \n Beijing, China'
+  location         :|
+  No.5 Yiheyuan Road, 
+  Haidian District, 
+  Beijing, China
   employer         : "Peking University"
   uri              : # URL
   email            : "liangc@pku.edu.cn" 
