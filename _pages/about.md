@@ -6,15 +6,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am now a doctoral student from School of Mathematical Sciences, Peking University, advised by [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html). I got my B.Eng degree from Department of Optoelectronic Science and Technology, Harbin Institute of Technology. 
+Hello! I am currently a doctoral student from School of Mathematical Sciences, Peking University, advised by [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html). I got my B.Eng degree in Sept. 2019, from Department of Optoelectronic Science and Technology, Harbin Institute of Technology. 
+
+我的本科是。。。。背景，在我的博士生科研训练当中，我
 
 Interests
 ======
-My research interest is 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interest is advanced 
 
 Reasarch Projects
+======
+adasd
+
+Computational Imaging in Label-free Microscopy
+------
+asa
+
+Lightsheet Microscopy in Zebrafish Brain Imaging
+------
+asa
+
+
+Teaching Experiences
+======
+adasd
+
+Publications
 ======
 adasd
 
