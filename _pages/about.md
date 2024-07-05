@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello! I am currently a doctoral student from School of Mathematical Sciences, Peking University, advised by [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html). I got my B.Eng degree in Sept. 2019, from Department of Optoelectronic Science and Technology, Harbin Institute of Technology. 
 
-我的本科是。。。。背景，在我的博士生科研训练当中，我
+I have an undergraduate background in optoelectronic instruments and received extensive training in constructing optical imaging instruments during my Ph.D research. Additionally, my studies in the mathematics department has enhanced my ability to solve interdisciplinary problems using computational imaging techniques. Currently, I focus on breaking imaging limitations in biomedical imaging through advanced optical and mathematical computation approaches.
 
 Interests
 ======
@@ -17,6 +17,7 @@ My research interest is advanced
 Reasarch Projects
 ======
 adasd
+图片
 
 Computational Imaging in Label-free Microscopy
 ------
