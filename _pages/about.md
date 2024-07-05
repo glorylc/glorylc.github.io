@@ -16,8 +16,7 @@ My research interest is advanced
 
 Reasarch Projects
 ======
-adasd
-图片
+实物图片
 
 Computational Imaging in Label-free Microscopy
 ------
@@ -27,6 +26,13 @@ Lightsheet Microscopy in Zebrafish Brain Imaging
 ------
 asa
 
+A Two-photon Screening Platform for Fluorescent Protein
+------
+asa
+
+Adaptive Optics (AO) in Microscopy 
+------
+aaa
 
 Teaching Experiences
 ======
