@@ -93,7 +93,7 @@ Publications
 ======
 <strong>Journals:</strong>
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^\dag + b^2 = c^2\\))
+The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^\dag + b\dag = c^2\\))
 
 1. <strong>Chen Liang</strong>\\(a^\dag\\), Fan Feng<p>$^\dag$</p>, Ke Du, Dongdong Chen, Runjia Yang, Chang Lu, Shumin Chen, Jianzhong Jeff Xi, Heng Mao*. Computational label-free microscope through a custom-built high-throughput objective lens and Fourier ptychography. <i>Optics and Lasers in Engineering</i>, 176:108055, 2024. [DOI: 10.1016/j.optlaseng.2024.108055](https://doi.org/10.1016/j.optlaseng.2024.108055).
 
