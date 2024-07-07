@@ -48,7 +48,7 @@ On the one hand, to address the lack of functional probes, I have established a 
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Liangyi Chen](https://future.pku.edu.cn/en//js/Faculty/InstituteMedicine/e215c13603434680a6f6c313a48f71f9.htm)
 
-<br/><img src='/images/Lightsheet.png'>
+<br/><img src='/images/LightsheetV2.png'>
 
 <strong>Figure</strong>: The lightsheet microscope for zebrafish whole-brain functional imaging.
 
@@ -63,6 +63,10 @@ I designed a platform that combines large field of view (FOV) stitching for macr
 <strong>Funding</strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.21927813</strong>), high-throughput two-photon fluorescent protein screening and the whole brain functional imaging system, participant.
 
 <strong>Advisor</strong>: [Prof. Pingyong Xu](http://english.ibp.cas.cn/pe/casyipam/201406/t20140618_122950.html)
+
+<br/><img src='/images/ScreeningPlatform.png'>
+
+<strong>Figure</strong>: The two-photon Screening Platform.
 
 Adaptive Optics (AO) in Microscopy 
 ------
