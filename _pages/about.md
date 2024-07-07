@@ -10,9 +10,9 @@ Hello! I am currently a doctoral student from School of Mathematical Sciences, P
 
 I have an undergraduate background in optoelectronic instruments and received extensive training in constructing optical imaging instruments during my Ph.D research. Additionally, my studies in the mathematics department has enhanced my ability to solve interdisciplinary problems using computational imaging techniques. Currently, I focus on breaking imaging limitations in biomedical imaging through advanced optical and mathematical computation approaches.
 
-Interests
+Reasarch Interests
 ======
-My research interest is advanced 
+<strong> </strong> 
 
 Reasarch Projects
 ======
@@ -36,7 +36,8 @@ aaa
 
 Teaching Experiences
 ======
-adasd
+1. <strong> Digital Image Processing </strong>, Spring Semester 2023, teaching assistant
+2. Bioinformatics Methods and Applications, Fall Semester 2022, teaching assistant
 
 Publications
 ======

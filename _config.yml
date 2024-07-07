@@ -26,9 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
   employer         : "Peking University"
-  location         : |   
-    Haidian District,
-    Beijing, China
+  location         : Beijing, China
   uri              : # URL
   email            : "liangc@pku.edu.cn" 
 
