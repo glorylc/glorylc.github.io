@@ -14,7 +14,7 @@ Research Interests
 ======
 <ul>
   <li><strong>Advanced Methods in High-resolution Microscopy</strong></li>
-  <li><strong>High dimensional Zebrafish Brain imaging</strong></li>
+  <li><strong>High-dimensional Zebrafish Brain Imaging</strong></li>
   <li><strong>Adaptive Optics in Microscopy </strong></li>
 </ul>
 
@@ -91,7 +91,15 @@ Teaching Experiences
 
 Publications
 ======
-adasd
+<strong>[Journals]</strong>
+
+1. <strong>Chen Liang\\(^\dag\\)</strong>, Fan Feng\\(^\dag\\), Ke Du, Dongdong Chen, Runjia Yang, Chang Lu, Shumin Chen, Jianzhong Jeff Xi, Heng Mao*. Computational label-free microscope through a custom-built high-throughput objective lens and Fourier ptychography. <i>Optics and Lasers in Engineering</i>, 176:108055, 2024. [DOI: 10.1016/j.optlaseng.2024.108055](https://doi.org/10.1016/j.optlaseng.2024.108055)
+
+2. 
+
+<strong>[Patents]</strong>
+
+
 
 Getting started
 ======
