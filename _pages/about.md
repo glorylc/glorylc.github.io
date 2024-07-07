@@ -32,11 +32,9 @@ In order to address the problems of time-consuming scanning and throughput limit
 <strong> Advisor </strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
 
 光路图，系统图，软件截图，结果图
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+
+<br/><img src='/images/500x300.png'>
 collection: portfolio
----
 
 Lightsheet Microscopy in Zebrafish Brain Imaging
 ------
