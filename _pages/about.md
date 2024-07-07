@@ -93,7 +93,7 @@ Publications
 ======
 <strong>Journals:</strong>
 
-1. <strong>Chen Liang</strong><p>\\(^\dag\\)</p>, Fan Feng<p>$^\dag$</p>, Ke Du, Dongdong Chen, Runjia Yang, Chang Lu, Shumin Chen, Jianzhong Jeff Xi, Heng Mao*. Computational label-free microscope through a custom-built high-throughput objective lens and Fourier ptychography. <i>Optics and Lasers in Engineering</i>, 176:108055, 2024. [DOI: 10.1016/j.optlaseng.2024.108055](https://doi.org/10.1016/j.optlaseng.2024.108055).
+1. <strong>Chen Liang</strong><p>\\(^\\dag\\)</p>, Fan Feng<p>$^\dag$</p>, Ke Du, Dongdong Chen, Runjia Yang, Chang Lu, Shumin Chen, Jianzhong Jeff Xi, Heng Mao*. Computational label-free microscope through a custom-built high-throughput objective lens and Fourier ptychography. <i>Optics and Lasers in Engineering</i>, 176:108055, 2024. [DOI: 10.1016/j.optlaseng.2024.108055](https://doi.org/10.1016/j.optlaseng.2024.108055).
 
 2.  Fan Feng\\(^(\dagger,*)\\), <strong>Chen Liang</strong>$$^\dag$$, Dongdong Chen, Ke Du, Runjia Yang, Chang Lu, Shumin Chen, Wenting He, Pingyong Xu, Liangyi Chen, Louis Tao, Heng Mao*. Moment-based space-variant Shack–Hartmann wavefront reconstruction. <i>Optics Communications</i>, 540: 129515, 2023. [DOI: 10.1016/j.optcom.2023.129515](https://doi.org/10.1016/j.optcom.2023.129515).
 
