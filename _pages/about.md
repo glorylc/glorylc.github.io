@@ -32,7 +32,7 @@ In order to address the problems of time-consuming scanning and throughput limit
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
 
-<br/><img src='/images/FPMSIM.png'>
+<br/><img src='/images/FPMSIM2.png'>
 
 <strong>Figure</strong>: The dual-modalities system with Fourier ptychography microscopy and structured illumination microscopy.
 
