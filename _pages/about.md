@@ -97,7 +97,7 @@ Publications
 
 2.  Fan Feng\\(^(\dagger,*)\\), <strong>Chen Liang</strong>$$^\dag$$, Dongdong Chen, Ke Du, Runjia Yang, Chang Lu, Shumin Chen, Wenting He, Pingyong Xu, Liangyi Chen, Louis Tao, Heng Mao*. Moment-based space-variant Shack–Hartmann wavefront reconstruction. <i>Optics Communications</i>, 540: 129515, 2023. [DOI: 10.1016/j.optcom.2023.129515](https://doi.org/10.1016/j.optcom.2023.129515).
 
-3. Fan Feng$^{\dag,*}$, <strong>Chen Liang</strong>$^\dag$, Dongdong Chen, Ke Du, Runjia Yang, Chang Lu, Shumin Chen, Liangyi Chen, Louis Tao, and Heng Mao*, Space-variant Shack–Hartmann wavefront sensing based on affine transformation estimation.<i>Applied Optics</i>, 61: 9342-9349, 2022. [DOI: DOI: 10.1364/AO.471225](https://doi.org/10.1364/AO.471225).
+3. Fan Feng\\(^(\textdagger,*)\\), <strong>Chen Liang</strong>$^\dag$, Dongdong Chen, Ke Du, Runjia Yang, Chang Lu, Shumin Chen, Liangyi Chen, Louis Tao, and Heng Mao*, Space-variant Shack–Hartmann wavefront sensing based on affine transformation estimation.<i>Applied Optics</i>, 61: 9342-9349, 2022. [DOI: DOI: 10.1364/AO.471225](https://doi.org/10.1364/AO.471225).
 
 <strong>Patents:</strong>
 
