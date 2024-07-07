@@ -20,7 +20,7 @@ Research Interests
 
 Research Projects
 ======
-During my Ph.D's research, I participated in and led several research projects. My work and contributions are as follows.
+During my Ph.D's research, I led and participated in several research projects. My work and contributions are as follows.
 
 Computational Imaging in Label-free and Fluorescence Microscopy
 ------
@@ -32,9 +32,9 @@ In order to address the problems of time-consuming scanning and throughput limit
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
 
-
 <br/><img src='/images/FPMSIM.png'>
-Figure 1: portfolio
+
+<strong>Figure</strong>: The dual-modalities system with Fourier ptychography microscopy and structured illumination microscopy.
 
 Lightsheet Microscopy in Zebrafish Brain Imaging
 ------
