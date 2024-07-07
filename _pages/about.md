@@ -15,6 +15,7 @@ Reasarch Interests
 <ul>
   <li><strong>Advanced Methods in High-resolution Microscopy</strong></li>
   <li><strong>High dimensional Zebrafish Brain imaging</strong></li>
+</ul>
 
 Reasarch Projects
 ======
