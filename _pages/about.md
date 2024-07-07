@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am currently a doctoral student from School of Mathematical Sciences, Peking University, advised by [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html). I got my B.Eng degree in Sept. 2019, from Department of Optoelectronic Science and Technology, Harbin Institute of Technology. 
+Hello! I am currently a doctoral student from School of Mathematical Sciences, [Peking University](https://english.pku.edu.cn/), advised by [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html). I got my B.Eng degree in Sept. 2019, from Department of Optoelectronic Science and Technology, [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 
 I have an undergraduate background in optoelectronic instruments and received extensive training in constructing optical imaging instruments during my Ph.D research. Additionally, my studies in the mathematics department has enhanced my ability to solve interdisciplinary problems using computational imaging techniques. Currently, I focus on breaking imaging limitations in biomedical imaging through advanced optical and mathematical computation approaches.
 
@@ -23,11 +23,20 @@ During my Ph.D's research, I participated in and led several research projects. 
 
 Computational Imaging in Label-free Microscopy
 ------
-In order to address the problems of time-consuming scanning and throughput limitation in the cell microarray, I developed a high-throughput and high-content array screening imaging system. By customizing an ultra-high throughput objective lens, it achieved more than four times the imaging throughput of commercial high-throughput objective lenses. And I further improved the imaging throughput by utilizing Fourier ptychography microscopy (FPM). In addition, I have developed a structured illumination super-resolution imaging modality (SIM) based on the system. The whole system achieves both label-free and fluorescence modalities for living cells and tissue samples, allowing for comprehensive study of their structures and functions. This work has been published, <strong>Liang Chen</strong>, et al., <i>Optics and Lasers in Engineering</i>, [DOI](https://doi.org/10.1016/j.optlaseng.2024.108055).
+In order to address the problems of time-consuming scanning and throughput limitation in the cell microarray, I developed a high-throughput and high-content array screening imaging system. By customizing an ultra-high throughput objective lens, it achieved more than four times the imaging throughput of commercial high-throughput objective lenses. And I further improved the imaging throughput by utilizing Fourier ptychography microscopy (FPM). In addition, I have developed a structured illumination super-resolution imaging modality (SIM) based on the system. The whole system achieves both label-free and fluorescence modalities for living cells and tissue samples, allowing for comprehensive study of their structures and functions. This work has been published, <strong>Liang Chen</strong>, et al., <i>Optics and Lasers in Engineering</i> [DOI](https://doi.org/10.1016/j.optlaseng.2024.108055).
+
 <strong> Key words </strong>: Label-free microscopy, High-throughput imaging, Fourier ptychography microscopy, High SBP objective lens, System calibration
-<strong> Funding </strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.81827809</strong>), to develop a high-throughput and high-content array screening and imaging system for self-assembled cell Microarray, participant. 
-<strong> Advisor </strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi]()
+
+<strong> Funding </strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.81827809</strong>), to develop a high-throughput and high-content array screening and imaging system for self-assembled cell Microarray, participant.
+
+<strong> Advisor </strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
+
 光路图，系统图，软件截图，结果图
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
 Lightsheet Microscopy in Zebrafish Brain Imaging
 ------
