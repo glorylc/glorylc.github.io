@@ -78,9 +78,9 @@ I have been developing a novel optical and reconstruction method to reduce the i
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Liangyi Chen](https://future.pku.edu.cn/en//js/Faculty/InstituteMedicine/e215c13603434680a6f6c313a48f71f9.htm)
 
-<br/><img src='/images/ScreeningPlatform.png'>
+<br/><img src='/images/AO.png'>
 
-<strong>Figure</strong>: The two-photon Screening Platform.
+<strong>Figure</strong>: AO demonstration, real-time optical sensing and reconstruction.
 
 Teaching Experiences
 ======
