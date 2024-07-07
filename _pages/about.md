@@ -12,7 +12,9 @@ I have an undergraduate background in optoelectronic instruments and received ex
 
 Reasarch Interests
 ======
-<strong> </strong> 
+<ul>
+  <li><strong>Advanced Methods in High-resolution Microscopy</strong></li>
+  <li><strong>High dimensional Zebrafish Brain imaging</strong></li>
 
 Reasarch Projects
 ======
@@ -20,7 +22,9 @@ Reasarch Projects
 
 Computational Imaging in Label-free Microscopy
 ------
-asa
+<strong> Key words </strong>:  
+<strong> Funding </strong>:  
+<strong> Advisor </strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi]()
 
 Lightsheet Microscopy in Zebrafish Brain Imaging
 ------
@@ -36,8 +40,10 @@ aaa
 
 Teaching Experiences
 ======
-1. <strong> Digital Image Processing </strong>, Spring Semester 2023, teaching assistant
-2. Bioinformatics Methods and Applications, Fall Semester 2022, teaching assistant
+1. <strong>Digital Image Processing</strong>, Spring Semester 2023, teaching assistant
+2. <strong>Bioinformatics Methods and Applications</strong>, Fall Semester 2022, teaching assistant
+3. <strong>The Design and Analysis of Algorithm</strong>, Fall Semester 2021, teaching assistant
+4. <strong>Digital Signal Processing</strong>, Fall Semester 2020, teaching assistant
 
 Publications
 ======
