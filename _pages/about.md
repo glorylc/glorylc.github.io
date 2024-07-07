@@ -20,7 +20,7 @@ Research Interests
 
 Research Projects
 ======
-During my Ph.D's research, I led and participated in several research projects. My work and contributions are as follows.
+During my Ph.D. research, I am the primary student responsible for several research projects. And my work and contributions are as follows:
 
 Computational Imaging in Label-free and Fluorescence Microscopy
 ------
