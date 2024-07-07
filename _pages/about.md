@@ -48,6 +48,10 @@ On the one hand, to address the lack of functional probes, I have established a 
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Liangyi Chen](https://future.pku.edu.cn/en//js/Faculty/InstituteMedicine/e215c13603434680a6f6c313a48f71f9.htm)
 
+<br/><img src='/images/Lightsheet.png'>
+
+<strong>Figure</strong>: The lightsheet microscope for zebrafish whole-brain functional imaging.
+
 A Two-photon Screening Platform for Fluorescent Protein
 ------
 At present, fluorescent protein screening primarily focuses on single-photon probes, and there are no commercial high-throughput screening systems specifically designed for two-photon fluorescent proteins. I have established a complete screening platform and expect to obtain functional calcium probes with high brightness, large absorption cross-section, matching laser peak power, high fluorescence excitation efficiency and strong anti-bleaching ability.
