@@ -22,7 +22,7 @@ Research Projects
 ======
 During my Ph.D's research, I participated in and led several research projects. My work and contributions are as follows.
 
-Computational Imaging in Label-free Microscopy
+Computational Imaging in Label-free and Fluorescence Microscopy
 ------
 In order to address the problems of time-consuming scanning and throughput limitation in the cell microarray, I developed a high-throughput and high-content array screening imaging system. By customizing an ultra-high throughput objective lens, it achieved more than four times the imaging throughput of commercial high-throughput objective lenses. And I further improved the imaging throughput by utilizing Fourier ptychography microscopy (FPM). In addition, I have developed a structured illumination super-resolution imaging modality (SIM) based on the system. The whole system achieves both label-free and fluorescence modalities for living cells and tissue samples, allowing for comprehensive study of their structures and functions. This work has been published, <strong>Liang Chen</strong>, et al., <i>Optics and Lasers in Engineering</i>, [doi: https://doi.org/10.1016/j.optlaseng.2024.108055](https://doi.org/10.1016/j.optlaseng.2024.108055).
 
@@ -32,9 +32,8 @@ In order to address the problems of time-consuming scanning and throughput limit
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
 
-光路图，系统图，软件截图，结果图
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/FPMSIM.png'>
 Figure 1: portfolio
 
 Lightsheet Microscopy in Zebrafish Brain Imaging
@@ -65,7 +64,7 @@ Adaptive Optics (AO) in Microscopy
 ------
 I have been developing a novel optical and reconstruction method to reduce the impact of scatter in deep tissue imaging. Recently, I have built a proof-of-principle AO system to validate my idea. At the same time, utilizing a self-built wavefront sensor and deformable mirrors (from Boston and Alpao), I implemented a series of advanced techniques in AO for microscopy.
 
-<strong>Key words</strong>: Adaptive Optics, Real-time optical sensing, Close-loop control
+<strong>Key words</strong>: Adaptive Optics, Real-time optical sensing and close-loop control, Deep tissue imaging
 
 <strong>Funding</strong>: General Project, National Natural Science Foundation in China (<strong>NSFC, Grant No.32071458</strong>), Sparse volume illumination light field microscopy for rapid volumetric imaging on zebrafish whole brain, participant.
 
