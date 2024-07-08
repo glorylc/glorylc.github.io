@@ -10,6 +10,8 @@ Hello! I am currently a doctoral student from School of Mathematical Sciences, [
 
 I have an undergraduate background in optoelectronic instruments and received extensive training in constructing optical imaging instruments during my Ph.D research. Additionally, my studies in the mathematics department has enhanced my ability to solve interdisciplinary problems using computational imaging techniques. Currently, I focus on breaking imaging limitations in biomedical imaging through advanced optical and mathematical computation approaches.
 
+I am expected to recieve my Ph.D degree on <strong>July 2025</strong>, assuming everything goes smoothly. I am currently seeking suitable <strong>postdoctoral</strong> research opportunities or other opening positions. Feel free to shoot me an email if you are interested in collaborating with me.
+
 Research Interests
 ======
 <ul>
