@@ -101,6 +101,10 @@ Publications
 
 3. Fan Feng†,* , <strong>Chen Liang</strong>†, Dongdong Chen, Ke Du, Runjia Yang, Chang Lu, Shumin Chen, Liangyi Chen, Louis Tao, and Heng Mao*, Space-variant Shack–Hartmann wavefront sensing based on affine transformation estimation.<i>Applied Optics</i>, 61: 9342-9349, 2022. [DOI: 10.1364/AO.471225](https://doi.org/10.1364/AO.471225).
 
+4. <strong>Chen Liang</strong>†, Fan Feng, Pingyong Xu and Heng Mao*, Hybrid Illumination Angle Calibration for Fourier Ptychography Microscope, in Optica Imaging Congress 2024, paper JM4A.14, accepted. [PDF is here](../files/FPM_OSA2024.pdf)
+
+5. Fan Feng*, <strong>Chen Liang</strong>, High-resolution Space-variant Shack–Hartmann Wavefront Reconstruction, in Optica Imaging Congress 2024, paper OF1F.5, accepted. [PDF is here](../files/Feng_OSA2024.pdf)
+
 <strong>Patents:</strong>
 
 1. <strong>Chen Liang</strong>, Fan Feng, Pingyong Xu, Wenting He, A multi-modality microscope and method for deep tissue sample imaging, Invention, No.202410709063.8, Application Date June 3, 2024.
