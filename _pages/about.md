@@ -103,7 +103,7 @@ Publications
 
 <strong>Conferences:</strong>
 
-1. <strong>Chen Liang</strong>†, Fan Feng, Pingyong Xu and Heng Mao*, Hybrid Illumination Angle Calibration for Fourier Ptychography Microscope, in <i>Optica Imaging Congress 2024</i>, paper JM4A.14, accepted. [PDF is here](../files/FPM_OSA2024.pdf).
+1. <strong>Chen Liang</strong>, Fan Feng, Pingyong Xu and Heng Mao*, Hybrid Illumination Angle Calibration for Fourier Ptychography Microscope, in <i>Optica Imaging Congress 2024</i>, paper JM4A.14, accepted. [PDF is here](../files/FPM_OSA2024.pdf).
 
 2. Fan Feng*, <strong>Chen Liang</strong>, High-resolution Space-variant Shack–Hartmann Wavefront Reconstruction, in <i>Optica Imaging Congress 2024</i>, paper OF1F.5, accepted. [PDF is here](../files/Feng_OSA2024.pdf).
 
