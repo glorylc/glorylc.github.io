@@ -58,21 +58,21 @@ A Two-photon Screening Platform for Fluorescent Protein
 ------
 At present, fluorescent protein screening primarily focuses on single-photon probes, and there are no commercial high-throughput screening systems specifically designed for two-photon fluorescent proteins. I have established a complete screening platform and expect to obtain functional calcium probes with high brightness, large absorption cross-section, matching laser peak power, high fluorescence excitation efficiency and strong anti-bleaching ability.
 
-I designed a platform that combines large field of view (FOV) stitching for macroscopic imaging and multi-site two-photon microscopic imaging, enabling high-throughput screening of proteins. Further, utilizling the screened probe, functional imaging of the whole zebrafish brain can be achieved without artificial activation by excitation wavelength.
+I designed a platform that combines large field of view (FOV) stitching for macroscopic imaging and multi-site two-photon microscopic imaging, enabling high-throughput screening of proteins. The large FOV stitching module automatically locates the position of each bacterial colony. Using pre-calibrated transformation relationships, it controls the movement of the sample stage, positioning each colony sequentially at the central FOV of the one/two-photon scanning module for fluorescence imaging. After that, the fluorescence intensity of each colony is measured and calculated. To synchronize laser scanning control and image acquisition, I modified ScanImage([from Vidrio Technologies](https://www.mbfbioscience.com/products/scanimage)) and integrated the whole controls into a GUI panel. Further, utilizling the screened probe, functional imaging of the whole zebrafish brain can be achieved without artificial activation by excitation wavelength.
 
-<strong>Key words</strong>: Fluorescent protein screening, High-throughput screening
+<strong>Key words</strong>: Macroscopic and microscopic imaging, Fluorescent protein screening, High-throughput screening
 
 <strong>Funding</strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.21927813</strong>), high-throughput two-photon fluorescent protein screening and the whole brain functional imaging system, participant.
 
 <strong>Advisor</strong>: [Prof. Pingyong Xu](http://english.ibp.cas.cn/pe/casyipam/201406/t20140618_122950.html)
 
-<br/><img src='/images/ScreeningPlatform.png'>
+<br/><img src='/images/ScreeningPlatformV2.png'>
 
-<strong>Figure</strong>: The two-photon screening platform.
+<strong>Figure</strong>: The screening platform for fluorescent protein.
 
 Adaptive Optics (AO) in Microscopy 
 ------
-I have been developing a novel optical and reconstruction method to reduce the impact of scatter in deep tissue imaging. Recently, I have built a proof-of-principle AO system to validate my idea. At the same time, utilizing a self-built wavefront sensor and deformable mirrors (from Boston and Alpao), I implemented a series of advanced techniques in AO for microscopy.
+I have been developing a novel optical and reconstruction method to reduce the impact of scatter in deep tissue imaging. Recently, I have built a proof-of-principle AO system to validate my idea. At the same time, utilizing a self-built wavefront sensor and deformable mirrors (both Boston DM-Multi-3.5 and Alpao DM97-15), I implemented a series of advanced techniques in AO for microscopy.
 
 <strong>Key words</strong>: Adaptive Optics, Real-time optical sensing and close-loop control, Deep tissue imaging
 
