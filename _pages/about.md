@@ -30,7 +30,7 @@ In order to address the problems of time-consuming scanning and throughput limit
 
 <strong>Key words</strong>: Label-free microscopy, High-throughput imaging, Fourier ptychography microscopy, High SBP objective lens, System calibration
 
-<strong>Funding</strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.81827809</strong>), to develop a high-throughput and high-content array screening and imaging system for self-assembled cell Microarray, participant.
+<strong>Funding</strong>: National Major Research Instrumentation Program, National Natural Science Foundation in China (<strong>NSFC, Grant No.81827809</strong>), to develop a high-throughput and high-content array screening and imaging system for self-assembled cell microarray, participant.
 
 <strong>Advisor</strong>: [Prof.Heng Mao](https://www.math.pku.edu.cn/teachers/maoh/index.html), [Prof. Jianzhong Xi](http://www2.coe.pku.edu.cn/subpaget.asp?id=19)
 
