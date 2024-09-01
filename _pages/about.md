@@ -113,7 +113,7 @@ Publications
 
 1. <strong>Chen Liang</strong>, Fan Feng, Pingyong Xu, Wenting He, A multi-modality microscope and method for deep tissue sample imaging, Invention, No.202410709063.8, Application Date June 3, 2024.
 
-2. <strong>Chen Liang</strong>, Hongrun Yang, Fan Feng, Pingyong Xu, Wenting He, Automated Imaging Device for Fluorescent Protein Screening, Invention, Application Date July 2, 2024.
+2. <strong>Chen Liang</strong>, Hongrun Yang, Fan Feng, Pingyong Xu, Wenting He, Automated Imaging Device for Fluorescent Protein Screening, Invention, No.202411104252.9, Application Date August 13, 2024.
 
 3. Fan Feng, <strong>Chen Liang</strong>, A method and device for measuring aberrations in optical components or imaging systems, Invention, No.202311517845.3, Application Date September 28, 2023.
 
