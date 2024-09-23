@@ -16,8 +16,8 @@ Research Interests
 ======
 <ul>
   <li><strong>Advanced microscopic methods for high-resolution and deep-tissue imaging</strong></li>
-  <li><strong>High-dimensional Zebrafish Brain Imaging</strong></li>
-  <li><strong>Adaptive Optics in Microscopy </strong></li>
+  <li><strong>High-dimensional zebrafish brain imaging</strong></li>
+  <li><strong>Adaptive optics in microscopy </strong></li>
 </ul>
 
 Research Projects
