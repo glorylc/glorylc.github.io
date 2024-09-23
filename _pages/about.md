@@ -15,7 +15,7 @@ I am expected to receive my Ph.D degree on <strong>July 2025</strong>, assuming 
 Research Interests
 ======
 <ul>
-  <li><strong>Advanced Methods in High-resolution Microscopy</strong></li>
+  <li><strong>Advanced microscopic methods for high-resolution and deep-tissue imaging</strong></li>
   <li><strong>High-dimensional Zebrafish Brain Imaging</strong></li>
   <li><strong>Adaptive Optics in Microscopy </strong></li>
 </ul>
